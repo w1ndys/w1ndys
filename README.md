@@ -14,63 +14,87 @@
 
 - 🎓 网络空间安全专业
 - 🔧 热衷于自动化工具开发与抓包研究、工具编写、AI落地应用
-- 🚩 CTF 爱好者
-- 🤖 QQ 机器人/微信公众号机器人开发
+- 🚩 CTF 爱好者（已退役）
+- 🤖 QQ 机器人开发
 - ✍️ 正在学习 AI / AGENT 开发相关知识
-- 💡 专注于解决校园生活中的实际问题，让技术服务于日常需求
 
 ## 技术栈 & 工具
 
-### 后端开发
+日常以 **Python / Go** 写后端、爬虫和自动化，**Vue 3 + Tailwind** 做前端；机器人围绕 **OneBot / NapCat / AstrBot**；近期重心在 **AI Agent、Skill / MCP** 和校园服务落地。部署多用 **Docker、Vercel、GitHub Actions**。
+
+### 语言
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Gin](https://img.shields.io/badge/-Gin-80E0FF?style=flat-square&logo=go&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### 前端开发
+### 后端
+
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+### 前端
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TAILWIND](https://img.shields.io/badge/-TAILWIND-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### 开发工具
+### 机器人 / Agent
+
+![AstrBot](https://img.shields.io/badge/-AstrBot-6C5CE7?style=flat-square&logo=robotframework&logoColor=white)
+![OneBot](https://img.shields.io/badge/-OneBot-111827?style=flat-square&logo=qq&logoColor=white)
+![NapCat](https://img.shields.io/badge/-NapCat-09C269?style=flat-square&logo=catppuccin&logoColor=white)
+
+### 开发与部署
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Requable](https://img.shields.io/badge/-Requable-FF6B6B?style=flat-square&logo=shield&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-FF6B6B?style=flat-square&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat-square&logo=https://chatgpt.com/favicon.ico&logoColor=white)
-![MonkeyCode](https://img.shields.io/badge/-MonkeyCode-8A2BE2?style=flat-square&logo=https://monkeycode-ai.com/logo-light.png&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Reqable](https://img.shields.io/badge/-Reqable-FF6B6B?style=flat-square&logo=shield&logoColor=white)
+
+### AI 工具
+
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![MonkeyCode](https://img.shields.io/badge/-MonkeyCode-8A2BE2?style=flat-square)
 
 ## 🚀 我的项目
 
-- 🌐 **[easy-qfnu-api-go](https://github.com/W1ndys/easy-qfnu-api-go)** - QFNU 综合校园服务网关，基于 Go (Gin) 构建的一站式校园数据中心，整合多个校园服务接口
-- 🔐 **[qfnu-cas-go](https://github.com/W1ndys/qfnu-cas-go)** - 使用 Go 语言实现的 QFNU 统一身份认证登录开发骨架，为其他校园工具提供认证基础
-- 📚 **[QFNULibraryBook](https://github.com/W1ndys/QFNULibraryBook)** - 智能图书馆座位预约系统，通过自动化策略提高预约成功率，解决抢座难题
-- 🎯 **[QFNUCourseSelector](https://github.com/W1ndys/QFNUCourseSelector)** - 自动化选课工具，告别手动抢课烦恼，支持课程监控和自动选择
-- ✍️ **[QFNU-Auto-XSPJ](https://github.com/W1ndys/QFNU-Auto-XSPJ)** - 一键学生评教，自动化完成评教流程，节省时间提高效率
-- 📅 **[QFNUGetClasstable](https://github.com/W1ndys/QFNUGetClasstable)** - 课程表获取与 ICS 日历导出，方便同步到各类日历应用
-- 📊 **[QFNUScoreReminder](https://github.com/W1ndys/QFNUScoreReminder)** - 成绩查询与智能提醒系统，及时获取成绩更新通知
-- 🏫 **[QFNUFreeClassroomsFinder](https://github.com/W1ndys/QFNUFreeClassroomsFinder)** - 空教室实时查询工具，帮助快速找到可用的学习空间
-- 🔐 **[QFNULogin](https://github.com/W1ndys/QFNULogin)** - 强智教务模拟登录工具，为教务相关自动化提供登录支持
-- 🤖 **[W1ndysBot](https://github.com/W1ndys/W1ndysBot)** - QQ 机器人智能助手，提供多种实用功能和服务
-- 📱 **[QRCodeDetection](https://github.com/W1ndys/QRCodeDetection)** - 二维码识别工具，支持多种场景下的二维码检测与解析
+### 最近开发
 
-## 📈 GitHub 统计
+| 项目 | 简介 | 栈 |
+| --- | --- | --- |
+| [pi-open-in-vscode](https://github.com/w1ndys/pi-open-in-vscode) | PI-Desktop 插件：用 VS Code 打开当前工作目录 | JS |
+| [astrbot_plugin_codex_reset](https://github.com/w1ndys/astrbot_plugin_codex_reset) | 轮询 Codex 额度重置，推到 OneBot 群 | Python / AstrBot |
+| [ai-kit](https://github.com/w1ndys/ai-kit) | 自用文档、Skill 与 Prompt 合集 | Skill |
+| [astrbot_plugin_w1ndys_rules](https://github.com/w1ndys/astrbot_plugin_w1ndys_rules) | 群规：关键词、违禁词、欢迎语、入群验证、邀请树 | Python / AstrBot |
+| [astrbot_plugin_qq_agent](https://github.com/w1ndys/astrbot_plugin_qq_agent) | 自然语言管 QQ 群 / 好友 / 精华 / OCR / 语音转写 | Python / OneBot |
+| [easy-qfnu-skill](https://github.com/w1ndys/easy-qfnu-skill) | 曲奇教务 Skill：公告、成绩、课表、新生题库（只读） | Python |
+| [palworld-breeding-planner](https://github.com/w1ndys/palworld-breeding-planner) | 幻兽帕鲁配种规划：规则引擎 + CLI / MCP / 本地 API | TypeScript |
+| [w1ndys-bot-official](https://github.com/w1ndys/w1ndys-bot-official) | QQ 官方机器人插件式开发框架 | TypeScript |
+| [w1ndys-bot-onebot](https://github.com/w1ndys/w1ndys-bot-onebot) | Go + NapCat 可插拔 QQ 机器人，WebUI / PostgreSQL / Docker | Go |
+| [easy-qfnu-wiki-v2](https://github.com/w1ndys/easy-qfnu-wiki-v2) | Easy-QFNU 官方文档 | Python |
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=W1ndys&theme=github-dark&hide_border=true" width="100%" />
-</p>
+### 代表项目
 
-## 🔥 最近动态
-
-- 🚀 **校园工具开发** - 持续优化QFNU系列校园工具，提升用户体验
-- 🤖 **机器人开发** - 扩展QQ机器人的功能，增加更多实用特性  
-- 📚 **技术学习** - 深入研究AI/AGENT开发，探索自动化新可能
+| 项目 | 简介 | Stars |
+| --- | --- | --- |
+| [W1ndysBotFrame](https://github.com/w1ndys/W1ndysBotFrame) | 基于 NapCat + Python 的 QQ 机器人开发底层框架 | ![stars](https://img.shields.io/github/stars/w1ndys/W1ndysBotFrame?style=flat-square) |
+| [ex-cure-skill](https://github.com/w1ndys/ex-cure-skill) | 把回忆蒸馏成可复盘的 AI Skill | ![stars](https://img.shields.io/github/stars/w1ndys/ex-cure-skill?style=flat-square) |
+| [Blog](https://github.com/w1ndys/Blog) | Hexo 个人博客 | ![stars](https://img.shields.io/github/stars/w1ndys/Blog?style=flat-square) |
+| [QQGroupAuardBot](https://github.com/w1ndys/QQGroupAuardBot) | 大学生迎新群群管机器人 | ![stars](https://img.shields.io/github/stars/w1ndys/QQGroupAuardBot?style=flat-square) |
+| [qfnu-courses-grabber-solo-release](https://github.com/w1ndys/qfnu-courses-grabber-solo-release) | QFNU 强智教务抢课脚本（公开发布） | ![stars](https://img.shields.io/github/stars/w1ndys/qfnu-courses-grabber-solo-release?style=flat-square) |
+| [kontext](https://github.com/w1ndys/kontext) | 把项目知识编译成给大模型用的结构化上下文 | ![stars](https://img.shields.io/github/stars/w1ndys/kontext?style=flat-square) |
+| [w1ndysbot](https://github.com/w1ndys/w1ndysbot) | 基于 W1ndysBotFrame 的机器人实例 | ![stars](https://img.shields.io/github/stars/w1ndys/w1ndysbot?style=flat-square) |
+| [easy-qfnu-api-go](https://github.com/w1ndys/easy-qfnu-api-go) | QFNU 校园服务网关：成绩 / 课表 / 公告 / 题库 | ![stars](https://img.shields.io/github/stars/w1ndys/easy-qfnu-api-go?style=flat-square) |
+| [easy-qfnu-xspj](https://github.com/w1ndys/easy-qfnu-xspj) | 强智教务学生评教自动化 | ![stars](https://img.shields.io/github/stars/w1ndys/easy-qfnu-xspj?style=flat-square) |
+| [html-ppt-academic-skill](https://github.com/w1ndys/html-ppt-academic-skill) | 学术答辩 / 组会风格的 HTML PPT Skill | ![stars](https://img.shields.io/github/stars/w1ndys/html-ppt-academic-skill?style=flat-square) |
 
 ---
 
