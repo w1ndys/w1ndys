@@ -40,49 +40,28 @@
 
 ## 技术栈 & 工具
 
-日常以 **Python / Go** 写后端、爬虫和自动化，**Vue 3 + Tailwind** 做前端；机器人围绕 **OneBot / NapCat / AstrBot**；近期重心在 **AI Agent、Skill / MCP** 和校园服务落地。部署多用 **Docker、Vercel、GitHub Actions**。
+日常以 **Python / Go** 写后端、爬虫和自动化，**Vue / React + antd + Tailwind** 做前端；机器人围绕 **OneBot / NapCat / AstrBot**；近期重心在 **AI Agent、Skill / MCP** 和校园服务落地。部署多用 **Docker、Vercel、GitHub Actions**。
 
 ### 语言
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![语言](https://go-skill-icons.vercel.app/api/icons?i=py,go,ts,js)
 
 ### 后端
 
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![后端](https://go-skill-icons.vercel.app/api/icons?i=flask,gin,fastapi,postgres)
 
 ### 前端
 
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![前端](https://go-skill-icons.vercel.app/api/icons?i=vue,react,antdesign,html,css,tailwind)
 
 ### 机器人 / Agent
 
-![AstrBot](https://img.shields.io/badge/-AstrBot-6C5CE7?style=flat-square&logo=robotframework&logoColor=white)
-![OneBot](https://img.shields.io/badge/-OneBot-111827?style=flat-square&logo=qq&logoColor=white)
-![NapCat](https://img.shields.io/badge/-NapCat-09C269?style=flat-square&logo=catppuccin&logoColor=white)
+AstrBot · OneBot · NapCat
 
 ### 开发与部署
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Reqable](https://img.shields.io/badge/-Reqable-FF6B6B?style=flat-square&logo=shield&logoColor=white)
+![开发与部署](https://go-skill-icons.vercel.app/api/icons?i=git,vscode,docker,vercel,githubactions)
 
-### AI 工具
-
-![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
-![MonkeyCode](https://img.shields.io/badge/-MonkeyCode-8A2BE2?style=flat-square)
 
 ## 🚀 我的项目
 
