@@ -1,22 +1,42 @@
 # 👋 你好，我是 W1ndys
 
-> AI 工具重度依赖
-> 
-> 满招损，谦受益。
+<div align="center">
 
-<div align="left">
-    <img src="https://komarev.com/ghpvc/?username=W1ndys&color=0e75b6&style=flat-square&label=Profile+Views" alt="访问量统计" />
-    <img src="https://img.shields.io/github/followers/W1ndys?label=Followers&style=flat-square&color=0e75b6" alt="GitHub followers" />
-    <img src="https://img.shields.io/github/stars/W1ndys?label=Profile+Stars&style=flat-square&color=0e75b6" alt="GitHub User's stars" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=110&section=header&text=Hi%20there,%20I'm%20W1ndys&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=W1ndys&color=0e75b6&style=flat-square&label=Profile+Views" alt="访问量统计" />
+<img src="https://img.shields.io/github/followers/W1ndys?label=Followers&style=flat-square&color=0e75b6" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/W1ndys?label=Profile+Stars&style=flat-square&color=0e75b6" alt="GitHub User's stars" />
+
+<br>
+
+<p><em>AI 工具重度依赖</em></p>
+<p><em>满招损，谦受益。</em></p>
+
 </div>
 
-## 🎯 关于我
+<br>
 
-- 🎓 网络空间安全专业
-- 🔧 热衷于自动化工具开发与抓包研究、工具编写、AI落地应用
-- 🚩 CTF 爱好者（已退役）
-- 🤖 QQ 机器人开发
-- ✍️ 正在学习 AI / AGENT 开发相关知识
+<p align="center">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=W1ndys&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=W1ndys&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</p>
+
+## 简介
+
+- 网名 w1ndys，网络空间安全专业
+- 做校园自动化、QQ 机器人，以及 AI Agent / Skill 落地
+- 上大学是打CTF的，现在不打了，虽没学到什么深技术却打过不少比赛
+- 现在更多时间花在工具和产品上
+
+## 随笔
+
+- 从解决身边的刚需开始：教务、抢课、评教、空教室、成绩提醒。能用上，就值得写。
+- 机器人这条线走了很久，初中时第一次接触酷Q，就幻想着能自己写机器人，到 NapCat + Python 框架，再到 Go / 官方 Bot，现在主要写 AstrBot 插件
+- 最近在学 Agent。Skill、MCP 这类 Agent 基建工具，都是把「会写脚本」变成「能被模型调用」
+- 工具会过时，抓问题的习惯不会。能解决实际问题，比堆技术栈更重要
 
 ## 技术栈 & 工具
 
