@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>w1ndys</title>
+  <meta name="description" content="w1ndys · 满招损，谦受益" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500&family=Noto+Serif+SC:wght@500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --paper: #f4efe6;
+      --ink: #1c1917;
+      --ink-soft: #5c574e;
+      --rule: #d8d0c3;
+      --label: #8a8478;
+      --underline: #b7b09f;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html, body {
+      min-height: 100%;
+    }
+
+    body {
+      background: var(--paper);
+      color: var(--ink);
+      font-family: "Noto Sans SC", "PingFang SC", "Hiragino Sans GB", sans-serif;
+      font-size: 15px;
+      line-height: 1.85;
+      font-weight: 400;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    main {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 12vh 1.5rem;
+    }
+
+    .letter {
+      width: 100%;
+      max-width: 32rem;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 2.75rem;
+    }
+
+    h1 {
+      font-family: "Noto Serif SC", "Songti SC", serif;
+      font-weight: 500;
+      font-size: 2.35rem;
+      letter-spacing: 0.06em;
+      line-height: 1.2;
+    }
+
+    .lede {
+      margin-top: 0.7rem;
+      font-family: "Noto Serif SC", "Songti SC", serif;
+      font-size: 0.95rem;
+      font-weight: 500;
+      color: var(--ink-soft);
+      letter-spacing: 0.18em;
+    }
+
+    section + section {
+      margin-top: 2rem;
+    }
+
+    .label {
+      display: flex;
+      align-items: center;
+      gap: 0.8rem;
+      margin-bottom: 0.9rem;
+      font-size: 0.68rem;
+      letter-spacing: 0.22em;
+      text-transform: lowercase;
+      color: var(--label);
+    }
+
+    .label::after {
+      content: "";
+      flex: 1;
+      height: 1px;
+      background: var(--rule);
+    }
+
+    .about p + p {
+      margin-top: 0.9rem;
+    }
+
+    .links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem 1.75rem;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: underline;
+      text-decoration-thickness: 1px;
+      text-underline-offset: 0.22em;
+      text-decoration-color: var(--underline);
+    }
+
+    a:hover {
+      color: #000;
+      text-decoration-color: currentColor;
+    }
+
+    @media (max-width: 480px) {
+      h1 {
+        font-size: 2rem;
+      }
+
+      .lede {
+        letter-spacing: 0.12em;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <article class="letter">
+      <header>
+        <h1>w1ndys</h1>
+        <p class="lede">满招损，谦受益</p>
+      </header>
+
+      <section class="about" aria-label="about">
+        <div class="label">about</div>
+        <p>w1ndys，网络空间安全。做校园自动化、QQ 机器人，以及把 Agent / Skill 落到能用的工具上。大学时打 CTF，现在把时间花在产品和工具。</p>
+        <p>从身边的刚需开始写：能用上，就值得做。初中碰到酷Q就想自己写机器人，这条线还在往前走。工具会过时，抓问题的习惯不会。</p>
+      </section>
+
+      <section aria-label="links">
+        <div class="label">links</div>
+        <p class="links">
+          <a href="https://github.com/w1ndys">GitHub</a>
+          <a href="mailto:w1ndys@qq.com">w1ndys@qq.com</a>
+        </p>
+      </section>
+    </article>
+  </main>
+</body>
+</html>
