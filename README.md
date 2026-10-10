@@ -95,7 +95,26 @@ AstrBot · OneBot · NapCat
 | [easy-qfnu-xspj](https://github.com/w1ndys/easy-qfnu-xspj) | 强智教务学生评教自动化 | ![stars](https://img.shields.io/github/stars/w1ndys/easy-qfnu-xspj?style=flat-square) |
 | [html-ppt-academic-skill](https://github.com/w1ndys/html-ppt-academic-skill) | 学术答辩 / 组会风格的 HTML PPT Skill | ![stars](https://img.shields.io/github/stars/w1ndys/html-ppt-academic-skill?style=flat-square) |
 
+## 📊 GitHub 统计
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/w1ndys/w1ndys/main/profile-summary-card-output/github_dark/3-stats.svg" width="46%" />
+  <img src="https://raw.githubusercontent.com/w1ndys/w1ndys/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="46%" />
+  <img src="https://raw.githubusercontent.com/w1ndys/w1ndys/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="46%" />
+  <img src="https://raw.githubusercontent.com/w1ndys/w1ndys/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="46%" />
+</p>
+
+## 🐍 贡献贪吃蛇
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/w1ndys/w1ndys/output/github-snake-dark.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/w1ndys/w1ndys/output/github-snake.svg" width="90%" />
+  </picture>
+</p>
+
 ---
+
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=感谢访问我的主页!;Let's+make+something+awesome+together!" alt="Footer Typing SVG" />
